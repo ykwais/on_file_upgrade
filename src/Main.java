@@ -14,5 +14,8 @@ public class Main {
     }
 
     System.out.println("after rebase");
+    System.out.println("first on #4");
+    System.out.println("second on #4");
+
   }
 }
